@@ -76,7 +76,7 @@ This project demonstrates a complete ML pipeline including data preprocessing, m
 *  R² Score: 0.938
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Afrose Fathima J**
 AI & Data Science Student
@@ -84,7 +84,7 @@ AI & Data Science Student
 
 ---
 
-## ⭐ If you like this project
+##  If you like this project
 
 Give it a ⭐ on GitHub and share your feedback!
 
